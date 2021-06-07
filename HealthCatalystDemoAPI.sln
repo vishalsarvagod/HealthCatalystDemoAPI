@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCatalystDemoAPI", "HealthCatalystDemoAPI\HealthCatalystDemoAPI.csproj", "{ECAFBDCE-8331-4681-AB75-F027D3856708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCatalyst.Business.Customer", "HealthCatalyst.Business.Customer\HealthCatalyst.Business.Customer.csproj", "{1F1B8CBB-0E3C-40D6-AB43-75B4912BF32E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAFBDCE-8331-4681-AB75-F027D3856708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAFBDCE-8331-4681-AB75-F027D3856708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAFBDCE-8331-4681-AB75-F027D3856708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAFBDCE-8331-4681-AB75-F027D3856708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1B8CBB-0E3C-40D6-AB43-75B4912BF32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1B8CBB-0E3C-40D6-AB43-75B4912BF32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1B8CBB-0E3C-40D6-AB43-75B4912BF32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1B8CBB-0E3C-40D6-AB43-75B4912BF32E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C04BB81-A729-4DFC-B0D8-2002FC153F1A}
+	EndGlobalSection
+EndGlobal
